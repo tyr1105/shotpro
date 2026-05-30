@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://tyr1105.github.io/shotpro/sitemap.xml
